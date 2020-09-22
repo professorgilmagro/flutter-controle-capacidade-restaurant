@@ -1,5 +1,5 @@
-name: tot
-description: Sistema de gerenciamento de Demandas da GMM
+name: restaurant
+description: Sistema de controle de entrada em restaurante
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
@@ -50,8 +50,6 @@ flutter:
   #   - images/a_dot_ham.jpeg
 
   assets:
-    - assets/images/tot.png
-    - assets/images/tot-white.png
     - assets/images/restaurant.jpg
     - assets/images/restaurant2.jpg
 
